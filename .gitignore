@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Flask virtual environment
+venv/
+
+# Build directory
+frontend/build/
